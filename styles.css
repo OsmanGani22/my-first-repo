@@ -1,0 +1,11 @@
+body{
+    background-color: blanchedalmond;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+p{
+    color: black;
+    text-align: justify;
+    font-size: medium;
+}
